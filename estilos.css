@@ -21,6 +21,10 @@ img.img-derecha {
     float: right;
 }
 
+img.img-tabla {
+    
+}
+
 div.encabezado-menu {
     background-color: yellow;
     position: sticky;
