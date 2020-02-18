@@ -1,0 +1,27 @@
+body, ul {
+    margin: 0px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
+
+
+div.encabezado-logos {
+    background-color: blue;
+}
+
+img.img-encabezado {
+    width: 100px;
+}
+
+img.img-derecha {
+    float: right;
+}
+
+div.encabezado-menu {
+    background-color: yellow;
+    position: sticky;
+}
